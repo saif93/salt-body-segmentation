@@ -4,14 +4,15 @@ This repository contains the code and Jupyter Notebooks associated with our rese
 The code is provided in Jupyter Notebook format and can be easily executed using Kaggle Notebooks. Follow the steps below to set up the environment and run the experiments.
 
 ## Steps to Execute
-Upload the Jupyter Notebooks to Kaggle
-Create or log in to your Kaggle account.
-Start a new notebook environment.
-Upload the notebooks from this repository.
-Add Dataset
-In the notebook environment, click the Add Dataset option.
-Search for and add the dataset "TGS Salt Identification Challenge" to ensure the required data is available.
-Run the Code
+<ul><li>Upload the Jupyter Notebooks to Kaggle</li>
+<li>Create or log in to your Kaggle account.</li>
+<li>Start a new notebook environment.</li>
+<li>Upload the notebooks from this repository.</li>
+<li>Add Dataset</li>
+<li>In the notebook environment, click the Add Dataset option.</li>
+<li>Search for and add the dataset "TGS Salt Identification Challenge" to ensure the required data is available.</li>
+<li>Run the Code</li>
+</ul>
 
 Follow the instructions in the notebooks to train, validate, and evaluate the models discussed in the paper.
 
