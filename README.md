@@ -17,9 +17,9 @@ The code is provided in Jupyter Notebook format and can be easily executed using
 Follow the instructions in the notebooks to train, validate, and evaluate the models discussed in the paper.
 
 # Repository Highlights
-Implementation of Unet and LinkNet architectures with various pretrained encoders such as EfficientNetb7 and Xception.
-Fully reproducible experiments with detailed explanations for each step.
-Results aligned with the findings reported in our paper.
+<ul><li>Implementation of Unet and LinkNet architectures with various pretrained encoders such as EfficientNetb7 and Xception.</li>
+<li>Fully reproducible experiments with detailed explanations for each step.</li>
+<li>Results aligned with the findings reported in our paper.</li></ul>
 
 # Why This Matters
 According to prior research, only 10% of studies on salt body segmentation since 2019 have shared their code, posing challenges in ensuring transparency and reproducibility. By making our code publicly available, we aim to foster collaboration and advance research in this domain.
