@@ -31,7 +31,7 @@ If you find this code useful in your work, please consider citing our paper:
 @article{}
 
 # License
-This project is licensed under the GPL License.
+This project is licensed under the CC0 1.0 Universal License.
 
 # Contact
 For queries or suggestions, please reach out via GitHub issues or email at m_saif93@hotmail.com.
